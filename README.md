@@ -183,7 +183,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ![ir off](https://github.com/Yuvaranithulasingam/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/a136f176-7f5b-484a-bfd8-196baad7fe7d)
 
- ### WHEN THERE IS A INTERRUPT IR SENSOR IS BLIKING:
+ ### WHEN THERE IS A INTERRUPT IR SENSOR WILL BLINK:
  
 ![IR](https://github.com/Yuvaranithulasingam/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/49526b36-08dd-4ad1-86b3-eab40971000d)
 
