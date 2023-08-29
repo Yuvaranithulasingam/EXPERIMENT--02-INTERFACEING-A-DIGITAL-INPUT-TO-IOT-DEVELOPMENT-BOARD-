@@ -181,11 +181,11 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ### WHEN THERE IS NO INTERRUPT IR SENSOR IS OFF:
 
- ![ir off](https://github.com/Yuvaranithulasingam/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/a136f176-7f5b-484a-bfd8-196baad7fe7d)
+![OFFF](https://github.com/Yuvaranithulasingam/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/ea1db5c4-3dc8-46a8-a565-f891b380f8e1)
 
  ### WHEN THERE IS A INTERRUPT IR SENSOR WILL BLINK:
  
-![IR](https://github.com/Yuvaranithulasingam/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/49526b36-08dd-4ad1-86b3-eab40971000d)
+![ONNN](https://github.com/Yuvaranithulasingam/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/2455ad5e-b3dd-446f-bb49-178c08b2b738)
 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
